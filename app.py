@@ -1,5 +1,5 @@
 '''
-  A project made by asutosh97 and shibasisp as a part of pybites challenges. #lotsoffun #cloudyday
+  A project made by asutosh97 and shibasisp as a part of pybites challenges. #lotsoffun
 '''
 
 from flask import Flask, render_template, request
